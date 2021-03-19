@@ -22,24 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Senior Researcher
+    company: CSIRO Data61 (formerly NICTA) and the Australian National University
+    company_url: 'https://data61.csiro.au/'
+    location: Canberra
+    date_start: '2015-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: My time is divided between industrial consulting work for DATA61, and academic research in machine learning, and I have also jointly then solely taught the ANU course *Statistical Machine Learning*.
+
+  - title: Quantitative Analyst
+    company: Man Group AHL
+    company_url: 'https://www.man.com/ahl'
+    location: London UK
+    date_start: '2011-01-01'
+    date_end: '2015-01-01'
+    description: 'I joined the methodology research team at Man AHL. Initially I analysed and improved upon aspects of the existing forecasting models and trade sizing optimisation techniques. More recently I have progressed to the point of researching and implementing highly novel short-term equities strategies, which are trading profitably at present.'
+
+  - title: Postdoctoral Researcher
+    company: Technical University of Denmark
+    company_url: 'https://www.dtu.dk/English'
+    location: Copenhagen Denmark
+    date_start: '2008-01-01'
+    date_end: '2010-01-01'
+    description: 'I supervised machine learning projects while developing state of the art probabilistic semi supervised learning algorithms and developing high performance parallel processing numerical routines in C++ with CUDA. '
+
+  - title: Postdoctoral Researcher
+    company: Max Planck Institute for Biological Cybernetics
+    company_url: 'https://www.mpg.de/152075/biologische-kybernetik'
+    location: Tübingen Germany
+    date_start: '2007-06-01'
+    date_end: '2008-01-01'
+    description: 'Jointly funded by the Schölkopf (machine learning) and Bülthoff (psychophysics) sections I collaborated on data visualisation, efficient machine learning approaches to facial capture, and theoretical contributions to kernel methods.'
+
+  - title: Research Technologist
+    company: Telstra Research Laboratories
+    company_url: 'https://en.wikipedia.org/wiki/Telstra_Research_Laboratories'
+    location: Melbourne Australia
+    date_start: '2001-01-01'
+    date_end: '2002-01-01'
+    description: 'I implemented and analysed credit risk models in SAS, and developed natural language processing algorithms in C++.'
 ---

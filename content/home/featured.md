@@ -10,7 +10,8 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: Complete list on <a href="https://scholar.google.co.uk/citations?user=ugH_Wg4AAAAJ">Google Scholar</a>
+
 
 content:
   # Page type to display. E.g. post, talk, publication...
