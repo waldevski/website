@@ -1,5 +1,5 @@
 ---
-title: "Chord2vec: Learning musical chord embeddings"
+title: "Chord2vec: Learning Musical Chord Embeddings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
