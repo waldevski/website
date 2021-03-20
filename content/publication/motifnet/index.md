@@ -21,7 +21,8 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
+- Music Models
 
 # Display this page in the Featured widget?
 featured: true

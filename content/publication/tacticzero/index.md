@@ -23,7 +23,8 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
+- Reinforcement Learning
 
 # Display this page in the Featured widget?
 featured: true

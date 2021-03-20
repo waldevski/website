@@ -21,7 +21,10 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
+- Bayesian Modeling
+- Kernels and Gaussian Processes
+- Point Processes
 
 # Display this page in the Featured widget?
 featured: true

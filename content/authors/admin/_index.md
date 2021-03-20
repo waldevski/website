@@ -20,9 +20,11 @@ bio: My research interests include Bayesian machine learning, sequence models fo
 
 # Interests to show in About widget
 interests:
-- Bayesian machine learning
-- Sequence models (*e.g.* for music) 
-- Reinforcement learning (*e.g.* for automated theorem proving)
+- Bayesian machine learning (<a href="/tag/bayesian-modeling/">papers</a>)
+- Point processes (<a href="/tag/point-processes/">papers</a>)
+- Kernels and Gaussian processes (<a href="/tag/kernels-and-gaussian-processes/">papers</a>)
+- Machine learning for symbolic music (<a href="/tag/music-models/">papers</a>)
+- Reinforcement learning (<a href="/tag/reinforcement-learning/">papers</a>)
 
 # Education to show in About widget
 education:

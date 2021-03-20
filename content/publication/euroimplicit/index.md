@@ -22,7 +22,9 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
+- Kernels and Gaussian Processes
+- Graphics and Vision
 
 # Display this page in the Featured widget?
 featured: true

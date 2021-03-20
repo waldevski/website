@@ -21,7 +21,8 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
+- Kernels and Gaussian Processes
 
 # Display this page in the Featured widget?
 featured: true

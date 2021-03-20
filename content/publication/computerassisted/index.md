@@ -20,9 +20,10 @@ publication_types: ["1"]
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: While it is fun to generate music using machine learning, it might be more even fun if we had some control over the results. As a simple starting point, rather than allowing the algorithm to choose all the notes, played with partially specify a piece of music. We give a taste of what can be done in this space. <br> <br> We started with a piece by Mozart from the MuseData corpus. With this track and a previously trained model as our starting point, we  <br><br> **1.** Chose a single voice (or midi track) to use as our guideline. You can hear this voice in isolation in the first track of the playlist below. <br> **2.** Fixed the rhythmic (or timing) information of the remaining three tracks to be the same as that of the original midi file. <br> **3.** Sampled the pitches of the remaining tracks condiitonal on the above information. Two such samples are included here. In these samples, the original Mozart line has the timbre of a grand piano, while the remaining (computer generated) lines have the timbre of a synthesised guitar. One sample is generated using conditional sampling, the other conditional probability maximisation (leading to two different characters of result as discussed in the paper).<br><br>The accompaniments are clearly responding to the fixed line from Mozart. It is sobering to compare the results with the sparkling playfulness of the original composition, however. The final track in the playlist demonstrates this, with the same instrument patches (timbres) as before, applied to the original notes of the input midi file.
+summary: In the audio playlist linked below, we take a piece by Mozart from and **1)** Fix the melody line (the first track). **2)** Fix the rhythmic (or timing) information of the remaining three tracks to that of the original midi file (last track). **3)** Select the pitches of the remaining tracks conditional on the above (second and third tracks); one example uses conditional sampling with our **particle filter**, the other using conditional probability maximisation with a **beam search**, giving two different styles.
 
-tags: []
+tags: 
+- Music Models
 
 # Display this page in the Featured widget?
 featured: true
