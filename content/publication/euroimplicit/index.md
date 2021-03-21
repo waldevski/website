@@ -44,7 +44,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: Eurographics 2006
+publication_short: Eurographics
 
 
 # Associated Projects (optional).
@@ -53,7 +53,6 @@ publication_short: Eurographics 2006
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- rl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

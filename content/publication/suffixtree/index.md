@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: ICML 2018
+publication_short: ICML
 
 
 # Associated Projects (optional).
@@ -51,7 +51,6 @@ publication_short: ICML 2018
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- rl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

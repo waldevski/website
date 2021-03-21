@@ -43,7 +43,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: NeurIPS 2020
+publication_short: NeurIPS
 
 
 # Associated Projects (optional).
@@ -52,7 +52,6 @@ publication_short: NeurIPS 2020
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- rl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -28,7 +28,7 @@ experience:
     location: Canberra
     date_start: '2015-01-01'
     date_end: ''
-    description: My time is divided between industrial consulting work for DATA61, and academic research in machine learning, and I have also jointly then solely taught the ANU course *Statistical Machine Learning*.
+    description: My time is divided between industrial consulting work for DATA61, academic research, and postgraduate supervision in machine learning. I have also jointly (2017-2019) and solely (in 2020) taught the <a href="https://programsandcourses.anu.edu.au/course/COMP8600">Statistical Machine Learning</a> course at the ANU.
 
   - title: Quantitative Analyst
     company: Man Group AHL

@@ -35,14 +35,14 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/1802.03144'
 url_code: 'https://gitlab.com/cwalder/motif'
 url_dataset: ''
-url_poster: ''
+url_poster: 'motifnn_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'motifnn_slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/KAuEIw9dd0w?t=3907'
 
 # Publication name and optional abbreviated publication name.
-publication_short: ICML 2018
+publication_short: ICML
 
 
 # Associated Projects (optional).
@@ -51,7 +51,6 @@ publication_short: ICML 2018
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- rl
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
