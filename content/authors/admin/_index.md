@@ -6,11 +6,11 @@ title: Christian Walder
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher <br> Adjunct Professor 
+role: Activity Leader <br> Senior Researcher <br> Honorary Visting Fellow 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Data61
+- name: Data61 (formerly NICTA)
   url: https://data61.csiro.au/
 - name: Australian National University
   url: https://www.anu.edu.au/
@@ -74,4 +74,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a senior researcher and joint activity leader within the Machine Learning Research Group at Data61 in CSIRO. I also serve as an Adjunct Professor at the Australian National University where I have convened a  machine learning course and supervised postgraduate research students.
+I am an <a href="https://research.csiro.au/mlai-fsp/our-people/activity-leaders/">activity leader</a> and senior researcher within the Machine Learning Research Group at <a href="https://data61.csiro.au/">Data61</a> in CSIRO, which subsumed my previous employer, <a href="https://en.wikipedia.org/wiki/NICTA">NICTA</a>. I also serve as an Adjunct Professor at the Australian National University where I have convened a  machine learning course and continue to supervise postgraduate research students.
