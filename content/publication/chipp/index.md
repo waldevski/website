@@ -41,7 +41,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'icml_presentation.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://vimeo.com/240661527'
 
 # Publication name and optional abbreviated publication name.
 publication_short: ICML
