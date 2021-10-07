@@ -27,6 +27,7 @@ summary:
 
 tags:
 - Kernels and Gaussian Processes
+- Reinforcement Learning
 
 # Display this page in the Featured widget?
 featured: true
