@@ -32,7 +32,7 @@ featured: true
 links:
 - name: Audio Samples on Soundcloud
   url: https://soundcloud.com/user-920800058/sets/mozart-k160-human-computer
-url_pdf: 'https://arxiv.org/abs/1909.05030'
+url_pdf: 'https://arxiv.org/abs/1612.00092'
 url_code: ''
 url_dataset: ''
 url_poster: ''
