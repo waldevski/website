@@ -35,7 +35,7 @@ experience:
     company_url: 'https://data61.csiro.au/'
     location: Canberra
     date_start: '2015-01-01'
-    date_end: ''
+    date_end: '2022-07-11'
     description: My time is divided between academic research, supervising industrial work for CSIRO, and postgraduate supervision in machine learning. I have also jointly (2017-2019) and solely (in 2020) taught the <a href="https://programsandcourses.anu.edu.au/course/COMP8600">Statistical Machine Learning</a> course at the ANU.
 
   - title: Quantitative Analyst
