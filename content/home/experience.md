@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: I am a researcher in the Machine Learning for Code team.
 
-- title: Activity Leader and Senior Researcher
+  - title: Activity Leader and Senior Researcher
     company: NICTA (subsequently CSIRO Data61) and the Australian National University
     company_url: 'https://data61.csiro.au/'
     location: Canberra
