@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Activity Leader and Senior Researcher
+  - title: Research Scientist
+    company: Google Brain
+    company_url: 'https://research.google/locations/montreal/'
+    location: Montreal
+    date_start: '2015-01-01'
+    date_end: ''
+    description: I am a researcher in the Machine Learning for Code team.
+
+- title: Activity Leader and Senior Researcher
     company: NICTA (subsequently CSIRO Data61) and the Australian National University
     company_url: 'https://data61.csiro.au/'
     location: Canberra
