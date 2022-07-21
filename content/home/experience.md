@@ -26,7 +26,7 @@ experience:
     company: Google Brain
     company_url: 'https://research.google/locations/montreal/'
     location: Montreal
-    date_start: '2015-01-01'
+    date_start: '2022-07-18'
     date_end: ''
     description: I am a researcher in the Machine Learning for Code team.
 
