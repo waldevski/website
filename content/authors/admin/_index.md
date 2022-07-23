@@ -74,4 +74,4 @@ email: ""
 highlight_name: false
 ---
 
-I have recently joined the <a href="https://research.google/locations/montreal">Google Brain team in Montreal</a> as a Research Scientist in the Machine Learning for Code team led by Danny Tarlow. I also serve as an Adjunct Professor at the Australian National University where I have convened a machine learning course and continue to supervise postgraduate research students.
+I have joined the Google Brain <a href="https://research.google/locations/montreal">team</a> in Montreal as a Research Scientist in the Machine Learning for Code team. I continue to serve as an Adjunct Professor at the Australian National University where I have convened a machine learning course and continue to supervise postgraduate research students.
