@@ -74,4 +74,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a Research Scientist in the Machine Learning for Code team at Google Brain <a href="https://research.google/locations/montreal">team</a> Montreal. I also serve as an Adjunct Professor at the Australian National University.
+I am a Research Scientist in the Machine Learning for Code team at <a href="https://research.google/locations/montreal">Google Brain team</a> in Montreal. I also serve as an Adjunct Professor at the Australian National University.
