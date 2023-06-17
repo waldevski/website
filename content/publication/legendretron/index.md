@@ -10,7 +10,7 @@ authors:
 - Spiridon Penev
 - Richard Nock
 
-date: "2023-07-27T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
