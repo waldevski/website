@@ -1,15 +1,17 @@
 ---
-title: "Bait"
+title: "BAIT: Benchmarking (Embedding) Architectures for Interactive Theorem-Proving"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Sean Lamont
+- Michael Norrish
+- Amir Dezfouli
 - admin
-- Dongwoo Kim
+- Paul Montague
 
-
-date: "2017-11-01T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,16 +25,13 @@ abstract:
 summary: In the audio playlist linked below, we take a piece by Mozart and **1)** Fix the melody line (the first track). **2)** Fix the rhythmic (or timing) information of the remaining three tracks to that of the original midi file (last track). **3)** Select the pitches of the remaining tracks conditional on the above (second and third tracks); one example uses conditional sampling with our **particle filter**, the other using conditional probability maximisation with a **beam search**, giving two different styles.
 
 tags: 
-- Music Models
+- Theorem Proving
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Audio Samples on Soundcloud
-  url: https://soundcloud.com/user-920800058/sets/mozart-k160-human-computer
-url_pdf: 'https://arxiv.org/abs/1612.00092'
+url_pdf: 'https://arxiv.org/abs/2403.03401'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +41,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: ACML
+publication_short: AAAI
 
 
 # Associated Projects (optional).
