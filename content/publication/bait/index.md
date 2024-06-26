@@ -1,15 +1,17 @@
-
 ---
-title: "Fast Bayesian Intensity Estimation for the Permanental Process"
+title: "BAIT: Benchmarking (Embedding) Architectures for Interactive Theorem-Proving"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Sean Lamont
+- Michael Norrish
+- Amir Dezfouli
 - admin
-- Adrian Bishop
+- Paul Montague
 
-date: "2018-06-01T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,9 +25,7 @@ abstract:
 summary: 
 
 tags:
-- Bayesian Modeling
-- Kernels and Gaussian Processes
-- Point Processes
+- Bayesian Modelling
 
 # Display this page in the Featured widget?
 featured: true
@@ -35,17 +35,17 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://export.arxiv.org/abs/1701.03535'​【518 m】
+url_pdf: 'https://arxiv.org/abs/2403.03401'​【701 m】
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'icml_presentation.pdf'
+url_slides: ''
 url_source: ''
-url_video: 'https://vimeo.com/240661527'​【73 354 km】
+url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: ICML
+publication_short: AAAI
 
 
 # Associated Projects (optional).
@@ -62,4 +62,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
