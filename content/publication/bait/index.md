@@ -22,7 +22,7 @@ publication_types: ["1"]
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: In the audio playlist linked below, we take a piece by Mozart and **1)** Fix the melody line (the first track). **2)** Fix the rhythmic (or timing) information of the remaining three tracks to that of the original midi file (last track). **3)** Select the pitches of the remaining tracks conditional on the above (second and third tracks); one example uses conditional sampling with our **particle filter**, the other using conditional probability maximisation with a **beam search**, giving two different styles.
+summary:
 
 tags: 
 - Theorem Proving
