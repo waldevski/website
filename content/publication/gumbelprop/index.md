@@ -1,3 +1,4 @@
+
 ---
 title: "Latent Optimal Paths by Gumbel Propagation for Variational Bayesian Dynamic Programming"
 
@@ -61,3 +62,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
+
