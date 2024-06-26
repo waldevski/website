@@ -20,6 +20,7 @@ bio: My research interests include Bayesian machine learning, sequence models fo
 
 # Interests to show in About widget
 interests:
+- Code and theorem proving (<a href="/tag/theorem-proving/">papers</a>)
 - Bayesian machine learning (<a href="/tag/bayesian-modeling/">papers</a>)
 - Point processes (<a href="/tag/point-processes/">papers</a>)
 - Kernels and Gaussian processes (<a href="/tag/kernels-and-gaussian-processes/">papers</a>)
@@ -50,15 +51,15 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/cwalder
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/christian-walder-43397962/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/christian-walder-43397962/
 - icon: soundcloud
   icon_pack: fab
   link: https://soundcloud.com/user-920800058
-- icon: strava
-  icon_pack: fab
-  link: https://www.strava.com/athletes/3472757
+# - icon: strava
+#   icon_pack: fab
+#   link: https://www.strava.com/athletes/3472757
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
