@@ -45,7 +45,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: AAAI
+publication_short: ICML
 
 
 # Associated Projects (optional).
