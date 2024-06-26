@@ -1,17 +1,16 @@
 ---
-title: "BAIT Benchmarking Embedding Architectures for Interactive Theorem-Proving"
+title: "BAIT"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Sean Lamont
-- Michael Norrish
-- Amir Dezfouli
+- Kevin Lam
 - admin
-- Paul Montague
+- Spiridon Penev
+- Richard Nock
 
-date: "2024-02-27T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +34,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2403.03401'​【701 m】
+url_pdf: 'https://arxiv.org/abs/2301.11695'​【701 m】
 url_code: ''
 url_dataset: ''
 url_poster: ''
