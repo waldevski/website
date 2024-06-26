@@ -1,3 +1,4 @@
+
 ---
 title: "Fast Bayesian Intensity Estimation for the Permanental Process"
 
@@ -61,3 +62,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
+
