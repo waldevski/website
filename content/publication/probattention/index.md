@@ -30,7 +30,7 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-url_pdf: 'https://arxiv.org/abs/2403.03401'
+url_pdf: 'https://kdd2024.kdd.org'
 url_code: ''
 url_dataset: ''
 url_poster: ''
