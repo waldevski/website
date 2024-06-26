@@ -56,7 +56,7 @@ social:
 #   link: https://www.linkedin.com/in/christian-walder-43397962/
 - icon: soundcloud
   icon_pack: fab
-  link: https://soundcloud.com/user-920800058
+  link: https://on.soundcloud.com/heUSsDTXputgmZRQ7
 # - icon: strava
 #   icon_pack: fab
 #   link: https://www.strava.com/athletes/3472757
