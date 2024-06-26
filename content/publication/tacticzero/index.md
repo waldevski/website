@@ -25,6 +25,7 @@ summary:
 
 tags:
 - Reinforcement Learning
+- Theorem Proving
 
 # Display this page in the Featured widget?
 featured: true
