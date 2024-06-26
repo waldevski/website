@@ -1,5 +1,5 @@
 ---
-title: "BAIT: Benchmarking (Embedding) Architectures for Interactive Theorem-Proving"
+title: "BAIT Benchmarking Embedding Architectures for Interactive Theorem-Proving"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,7 +11,7 @@ authors:
 - admin
 - Paul Montague
 
-date: "2023-06-01T00:00:00Z"
+date: "2024-02-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
