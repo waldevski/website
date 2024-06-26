@@ -34,7 +34,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://kdd2024.kdd.org'​【701 m】
+url_pdf: 'https://kdd2024.kdd.org'​
 url_code: ''
 url_dataset: ''
 url_poster: ''
