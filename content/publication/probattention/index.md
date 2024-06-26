@@ -5,13 +5,12 @@ title: "Probabilistic Attention for Sequential Recommendation"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Sean Lamont
-- Michael Norrish
-- Amir Dezfouli
+- Yuli LIU
 - admin
-- Paul Montague
+- Lexing Xie
+- Yiqun LIU
 
-date: "2024-02-01T00:00:00Z"
+date: "2024-08-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
