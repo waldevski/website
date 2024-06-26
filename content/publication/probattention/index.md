@@ -1,3 +1,4 @@
+
 ---
 title: "Probabilistic Attention for Sequential Recommendation"
 
@@ -44,7 +45,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: KDD
+publication_short: ICML
 
 
 # Associated Projects (optional).
