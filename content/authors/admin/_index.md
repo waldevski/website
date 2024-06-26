@@ -20,7 +20,7 @@ bio: My research interests include Bayesian machine learning, sequence models fo
 
 # Interests to show in About widget
 interests:
-- Code and theorem proving (<a href="/tag/theorem-proving/">papers</a>)
+- Theorem proving (<a href="/tag/theorem-proving/">papers</a>)
 - Bayesian machine learning (<a href="/tag/bayesian-modeling/">papers</a>)
 - Point processes (<a href="/tag/point-processes/">papers</a>)
 - Kernels and Gaussian processes (<a href="/tag/kernels-and-gaussian-processes/">papers</a>)
