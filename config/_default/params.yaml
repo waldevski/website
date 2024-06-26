@@ -37,11 +37,11 @@ email: cwalder (at google dot com) OR christian dot walder (at anu dot edu dot a
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: linkedin
-    icon_pack: fab
-    name: Connect on LinkedIn
-    link: 'https://www.linkedin.com/in/christian-walder-43397962/'
+# contact_links:
+#   - icon: linkedin
+#     icon_pack: fab
+#     name: Connect on LinkedIn
+#     link: 'https://www.linkedin.com/in/christian-walder-43397962/'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
