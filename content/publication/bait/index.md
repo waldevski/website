@@ -1,15 +1,14 @@
 ---
-title: "Computer Assisted Composition with Recurrent Neural Networks"
+title: "Fast Bayesian Intensity Estimation for the Permanental Process"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Dongwoo Kim
+- Adrian Bishop
 
-
-date: "2017-11-01T00:00:00Z"
+date: "2018-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,32 +16,35 @@ date: "2017-11-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-abstract:
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: In the audio playlist linked below, we take a piece by Mozart and **1)** Fix the melody line (the first track). **2)** Fix the rhythmic (or timing) information of the remaining three tracks to that of the original midi file (last track). **3)** Select the pitches of the remaining tracks conditional on the above (second and third tracks); one example uses conditional sampling with our **particle filter**, the other using conditional probability maximisation with a **beam search**, giving two different styles.
+summary: 
 
-tags: 
-- Music Models
+tags:
+- Bayesian Modeling
+- Kernels and Gaussian Processes
+- Point Processes
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Audio Samples on Soundcloud
-  url: https://soundcloud.com/user-920800058/sets/mozart-k160-human-computer
-url_pdf: 'https://arxiv.org/abs/1612.00092'
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://export.arxiv.org/abs/1701.03535'​【518 m】
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'icml_presentation.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://vimeo.com/240661527'​【73 354 km】
 
 # Publication name and optional abbreviated publication name.
-publication_short: ACML
+publication_short: ICML
 
 
 # Associated Projects (optional).
