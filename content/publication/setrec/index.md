@@ -30,7 +30,7 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-url_pdf: 'https://cikm2024.org/'​【732 m】
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
