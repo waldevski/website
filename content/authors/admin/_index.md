@@ -24,6 +24,7 @@ interests:
 - Bayesian machine learning (<a href="/tag/bayesian-modeling/">papers</a>)
 - Point processes (<a href="/tag/point-processes/">papers</a>)
 - Kernels and Gaussian processes (<a href="/tag/kernels-and-gaussian-processes/">papers</a>)
+- Recommender Systems (<a href="/tag/recommender-systemds/">papers</a>)
 - Reinforcement learning (<a href="/tag/reinforcement-learning/">papers</a>)
 - Machine learning for symbolic music (<a href="/tag/music-models/">papers</a>)
 
