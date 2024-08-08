@@ -27,7 +27,7 @@ tags:
 - Point Processes
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 url_pdf: 'https://cikm2024.org'
