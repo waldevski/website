@@ -10,10 +10,10 @@ role: Research Scientist <br> Honorary Visting Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Google Brain Montreal
-  url: https://research.google/locations/montreal/
+- name: Google DeepMind
+  url: https://deepmind.google
 - name: Australian National University
-  url: https://www.anu.edu.au/
+  url: https://www.anu.edu.au
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Bayesian machine learning, sequence models for music and reinforcement learning.
@@ -76,4 +76,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a Research Scientist in the Machine Learning for Code team at <a href="https://research.google/locations/montreal">Google DeepMind</a> in Montreal. I also serve as an Adjunct Professor at the Australian National University.
+I am a Research Scientist in the Machine Learning for Code team at <a href="https://deepmind.google">Google DeepMind</a>. I'm also an adjunct at the Australian National University.
