@@ -27,7 +27,7 @@ tags:
 - Recommender Systems
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 url_pdf: 'https://cikm2024.org/'​【732 m】
