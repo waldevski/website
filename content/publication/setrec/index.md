@@ -40,7 +40,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: CIKM 2024
+publication_short: CIKM
 
 
 # Associated Projects (optional).
