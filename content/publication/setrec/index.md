@@ -30,7 +30,7 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-url_pdf: ''
+url_pdf: 'https://cikm2024.org'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -40,7 +40,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: CIKM
+publication_short: CIKM 2024
 
 
 # Associated Projects (optional).
