@@ -24,7 +24,7 @@ abstract:
 summary:
 
 tags: 
-- Recommender Systems
+- Point Processes
 
 # Display this page in the Featured widget?
 featured: false
