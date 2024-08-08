@@ -23,9 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Scientist
-    company: Google Brain
-    company_url: 'https://research.google/locations/montreal/'
-    location: Montreal
+    company: Google DeepMind
+    company_url: 'https://deepmind.google'
     date_start: '2022-07-18'
     date_end: ''
     description: I am a researcher in the Machine Learning for Code team.
