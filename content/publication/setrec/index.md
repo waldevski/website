@@ -24,6 +24,7 @@ abstract:
 summary:
 
 tags: 
+- Recommender Systems
 
 # Display this page in the Featured widget?
 featured: true
