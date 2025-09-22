@@ -1,5 +1,5 @@
 ---
-title: "Pass at K Policy Optimization Solving Harder Reinforcement Learning Problems"
+title: "Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
