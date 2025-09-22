@@ -1,20 +1,20 @@
 ---
-title: "Gemini"
+title: "Hello"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Gemini Team
 - admin
+- Richard Nock
 
-date: "2025-07-22T00:00:00Z"
+date: "2020-12-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["1"]
 
 abstract: 
 
@@ -22,7 +22,8 @@ abstract:
 summary: 
 
 tags:
-- Reinforcement Learning
+- Bayesian Modeling
+- Kernels and Gaussian Processes
 
 # Display this page in the Featured widget?
 featured: true
@@ -32,7 +33,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2507.06261'​
+url_pdf: 'https://arxiv.org/abs/2006.04633'​
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +43,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: Google Report
+publication_short: NeurIPS
 
 
 # Associated Projects (optional).
