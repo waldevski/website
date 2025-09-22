@@ -1,11 +1,12 @@
 ---
-title: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+title: "Gemini"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Gemini Team
+- admin
 
 date: "2025-07-22T00:00:00Z"
 
