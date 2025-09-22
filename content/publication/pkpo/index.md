@@ -1,5 +1,5 @@
 ---
-title: "Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems"
+title: "Pass at K Policy Optimization Solving Harder Reinforcement Learning Problems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,7 +32,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2505.15201'​【611 m】
+url_pdf: 'https://arxiv.org/abs/2505.15201'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication_short: NeurIPS (spotlight)
+publication_short: NeurIPS Spotlight
 
 
 # Associated Projects (optional).
